@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      "Hello world"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "Hello World"
+subtitle:   "Hello Blog"
 date:       2020-04-17 12:00:00
 author:     "zhaoyim"
 header-img: ""
 catalog: true
 tags:
-    - 生活
-    - Meta
+    - Life
 ---
 
 > “Yeah It's on. ”
