@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Hello World"
-subtitle:   "Hello Blog"
-date:       2020-04-17 12:00:00
+title:      "Fact Table and Dim Table"
+subtitle:   "Database"
+date:       2020-04-20 12:00:00
 author:     "zhaoyim"
 header-img: ""
 catalog: true
