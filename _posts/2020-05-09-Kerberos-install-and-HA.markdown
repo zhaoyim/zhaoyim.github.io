@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Kerberos install and HA"
-subtitle:   "Database"
+subtitle:   "Security"
 date:       2020-05-09 12:00:00
 author:     "zhaoyim"
 header-img: ""
